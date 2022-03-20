@@ -1,6 +1,6 @@
 👋 Hi, I’m @perfumescent
 
-📫 bw.y@outlook.com
+📫 fillory@qq.com
 
 <!---
 perfumescent/perfumescent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
